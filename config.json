@@ -5,13 +5,13 @@
         "credential_name": "github_token"
     },
     "dataStore": {
-        "repo": "https://github.com/testforstephen/ansible-issue-tracker",
+        "repo": "https://github.com/testforstephen/java-issue-tracker",
         "branch": "state",
         "filePath": "issue-debug.json",
         "credential_name": "github_token"
     },
     "monitor": {
-        "repo": "https://github.com/testforstephen/ansible-issue-tracker",
+        "repo": "https://github.com/testforstephen/java-issue-tracker",
         "credential_name": "github_token"
     }
 }
