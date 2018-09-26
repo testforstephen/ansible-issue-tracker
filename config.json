@@ -1,7 +1,7 @@
 {
     "observer": {
         "repo": "https://github.com/Microsoft/vscode-java-debug",
-        "labels": ["debug"],
+        "labels": [],
         "credential_name": "github_token"
     },
     "dataStore": {
