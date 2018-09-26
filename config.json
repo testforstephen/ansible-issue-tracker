@@ -1,22 +1,17 @@
 {
     "observer": {
-        "repo": "https://github.com/ansible/Ansible",
-        "labels": ["azure"],
+        "repo": "https://github.com/Microsoft/vscode-java-debug",
+        "labels": ["debug"],
         "credential_name": "github_token"
     },
     "dataStore": {
-        "repo": "https://github.com/VSChina/ansible-issue-tracker",
+        "repo": "https://github.com/testforstephen/ansible-issue-tracker",
         "branch": "state",
-        "filePath": "issue-state.json",
+        "filePath": "issue-debug.json",
         "credential_name": "github_token"
     },
     "monitor": {
-        "repo": "https://github.com/VSChina/ansible-issue-tracker",
+        "repo": "https://github.com/testforstephen/ansible-issue-tracker",
         "credential_name": "github_token"
-    }, 
-    "custom": {
-        "maintainers":  ["kyliel", "yuwzho", "zikalino", "Fred-sun", "yungezz"],
-        "mails": ["yuwzho@microsoft.com", "37337818+yungezz@users.noreply.github.com", "zikalino@microsoft.com"],
-        "ignoreLabel": ["wontfix"]
     }
 }
